@@ -1,5 +1,5 @@
 [![mrihtar stats](https://github-readme-stats.vercel.app/api?username=mrihtar&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/mrihtar)
-[![mrihtar langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrihtar&langs_count=5&layout=compact&hide=css,html,scss,objective-c)](https://github.com/mrihtar)
+[![mrihtar langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrihtar&langs_count=5&layout=compact&hide=css,html,objective-c)](https://github.com/mrihtar)
 
 <!--
 **mrihtar/mrihtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
