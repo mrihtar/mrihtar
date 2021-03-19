@@ -1,4 +1,6 @@
-### Hi there 👋
+![mrihtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrihtar&count_private=true&show_icons=true&hide=contribs,issues)
+&nbsp;
+<a href="https://github.com/mrihtar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrihtar&langs_count=4&layout=compact&hide=css,html,scss" /></a>
 
 <!--
 **mrihtar/mrihtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
