@@ -1,4 +1,4 @@
-![mrihtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrihtar&count_private=true&show_icons=true&hide=contribs,issues)
+<a href="https://github.com/mrihtar"><img src="https://github-readme-stats.vercel.app/api?username=mrihtar&count_private=true&show_icons=true&hide=contribs,issues" /></a>
 <a href="https://github.com/mrihtar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrihtar&langs_count=4&layout=compact&hide=css,html,scss" /></a>
 
 <!--
